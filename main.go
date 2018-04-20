@@ -1,9 +1,10 @@
 package main
 
 import (
+	"LeetCode/p0020"
 	"fmt"
 )
 
 func main() {
-	fmt.Println("hello,LeetCode!")
+	fmt.Println(p0020.IsValid("["))
 }

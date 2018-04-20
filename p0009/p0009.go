@@ -1,6 +1,6 @@
 package p0009
 
-func isPalindrome(x int) bool {
+func IsPalindrome(x int) bool {
 	if x < 0 || x != 0 && x%10 == 0 {
 		return false
 	}

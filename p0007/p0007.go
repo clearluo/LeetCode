@@ -2,7 +2,7 @@ package p0007
 
 import "math"
 
-func reverse(x int) int {
+func Reverse(x int) int {
 	var ret int64
 	for x != 0 {
 		ret = ret*10 + int64(x%10)
