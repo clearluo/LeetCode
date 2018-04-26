@@ -1,4 +1,4 @@
-package p0026
+package easy
 
 func RemoveDuplicates(nums []int) int {
 	l := len(nums)

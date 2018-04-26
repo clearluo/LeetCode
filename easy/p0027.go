@@ -1,4 +1,4 @@
-package p0027
+package easy
 
 func RemoveElement(nums []int, val int) int {
 	l := len(nums)

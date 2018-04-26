@@ -1,4 +1,4 @@
-package p0020
+package easy
 
 func IsValid(s string) bool {
 	l := len(s)

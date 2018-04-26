@@ -1,4 +1,4 @@
-package p0014
+package easy
 
 func LongestCommonPrefix(strs []string) string {
 	if len(strs) < 1 {

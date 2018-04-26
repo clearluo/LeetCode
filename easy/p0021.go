@@ -1,4 +1,4 @@
-package p0021
+package easy
 
 import "fmt"
 

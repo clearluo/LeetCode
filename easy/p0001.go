@@ -1,4 +1,4 @@
-package p0001
+package easy
 
 func TwoSum(nums []int, target int) []int {
 	l := len(nums)

@@ -1,4 +1,4 @@
-package p0009
+package easy
 
 func IsPalindrome(x int) bool {
 	if x < 0 || x != 0 && x%10 == 0 {
