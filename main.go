@@ -6,5 +6,5 @@ import (
 )
 
 func main() {
-	fmt.Println(easy.CountAndSay(16))
+	fmt.Println(easy.PlusOne([]int{9, 9, 9}))
 }
