@@ -6,5 +6,5 @@ import (
 )
 
 func main() {
-	fmt.Println(easy.PlusOne([]int{9, 9, 9}))
+	fmt.Println(easy.MySqrt(0))
 }
