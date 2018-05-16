@@ -2,9 +2,13 @@ package main
 
 import (
 	"LeetCode/easy"
-	"fmt"
 )
 
 func main() {
-	fmt.Println(easy.MySqrt(0))
+	var data *easy.ListNode
+	data = data.Add(1)
+	data = data.Add(1)
+	data = data.Add(2)
+	ret := easy.DeleteDuplicates(data)
+	ret.Print()
 }
