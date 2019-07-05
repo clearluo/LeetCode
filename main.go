@@ -6,5 +6,5 @@ import (
 )
 
 func main() {
-	fmt.Println(easy.IsPalindrome2("aa"))
+	fmt.Println(easy.TitleToNumber("ZY"))
 }
