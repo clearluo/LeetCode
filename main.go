@@ -6,5 +6,5 @@ import (
 )
 
 func main() {
-	fmt.Println(easy.TitleToNumber("ZY"))
+	fmt.Println(easy.GetRow(3))
 }
